@@ -1,6 +1,6 @@
 # General
-.idea
-__pycache__
+*.idea
+*__pycache__
 .DS_Store
 
 # Logs and databases #
