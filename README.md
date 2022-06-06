@@ -98,11 +98,7 @@ I have to thank Prof. Abdollah-Zadeh Barforoush for his tips and help during doi
 
 [2] Corinna Cortes and Vladimir Vapnik. 1995. Support-Vector Networks. Mach. Learn. 20, 3 (September 1995), 273-297.
 
-[3] A. A. Barforush and A. Rahnama. Ontology learning: Revisted. Journal of Web
-
-Engineering, 11(4):269–289, May 2012. URL https://dl.acm.org/citation.cfm?
-
-id=2481557.
+[3] A. A. Barforush and A. Rahnama. Ontology learning: Revisted. Journal of Web Engineering, 11(4):269–289, May 2012. URL https://dl.acm.org/doi/10.5555/2481556.2481557.
 
 [4] A. Rahnama and A. A. Barforush. Cognibase: A new representation model to support ontology development. IADIS International Conference Information Systems, 243–248, - 2011. 
 
