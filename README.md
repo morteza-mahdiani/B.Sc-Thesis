@@ -122,7 +122,7 @@ laser. Review of Scientific Instruments, 69(3):1236–1239, March 1998. URL http
 
 [10] C. Batini, C. Cappiello, C. Francalanci and A. Maurino. Methodologies for Data Quality Assessment and Improvement. July, 2009.
 
-[11] Summer Olympic Medalist 1986 to 2008, URL: www.theguardian.com
+[11] Summer Olympic Medalist 1986 to 2008, URL: http://www.theguardian.com/
 
 [12] C.Cortes and V.Vapnik. Support-Vector Networks, Machine Learning, 273-297, 1995.
 
@@ -130,6 +130,6 @@ laser. Review of Scientific Instruments, 69(3):1236–1239, March 1998. URL http
 
 [14] Hyndman, Rob J., Koehler, Anne B. "Another look at measures of forecast accuracy". International Journal of Forecasting, 22 (4): 679–688, 2006.
 
-[15](2007) Ontology in Computer Science. In: Semantic Web: Concepts, Technologies and Applications. NASA Monographs in Systems and Software Engineering. Springer, London
+[15] Ontology in Computer Science. In: Semantic Web: Concepts, Technologies and Applications. NASA Monographs in Systems and Software Engineering. Springer, London, 2007.
 
 [^1]: Dirty data here means the data that need to be cleaned and cleansed and consist of irrelevant and incorrect records
